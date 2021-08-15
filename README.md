@@ -20,7 +20,7 @@
 <h2><<<<<head</h2>
 <h3>详细</h3>
 <h2>主页</h2>
-![image](https://github.com/PGmengqi/weibo/blob/master/img/%E4%B8%BB%E9%A1%B5.png)
+![image](https://github.com/PGmengqi/weibo/blob/master/img/主页.png)
  <h2>注册</h2>
 ![image](https://github.com/PGmengqi/weibo/blob/master/img/%E6%B3%A8%E5%86%8C.png)
  <h2>登录</h2>
