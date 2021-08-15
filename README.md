@@ -18,8 +18,8 @@
 <h2><<<<<head</h2>
 <h3>详细</h3>
 <h2>主页</h2>
-![image](img/主页.png)
+![Image text](/img/主页.png)
  <h2>注册</h2>
-![image](注册.png)
+![image](/img/注册.png)
  <h2>登录</h2>
-![image](https://github.com/PGmengqi/weibo/blob/master/img/%E7%99%BB%E5%BD%95.png)
+![登录.png](https://i.loli.net/2021/08/15/JdjBaQUL8xSViTs.png)
