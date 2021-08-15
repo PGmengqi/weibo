@@ -18,8 +18,8 @@
 <h2><<<<<head</h2>
 <h3>详细</h3>
 <h2>主页</h2>
-![Image text](/img/主页.png)
+ <img src =https://github.com/PGmengqi/weibo/blob/master/img/%E4%B8%BB%E9%A1%B5.png>
  <h2>注册</h2>
-![image](/img/注册.png)
+<img src=https://github.com/PGmengqi/weibo/blob/master/img/%E6%B3%A8%E5%86%8C.png>
  <h2>登录</h2>
-![登录.png](https://i.loli.net/2021/08/15/JdjBaQUL8xSViTs.png)
+<img src=https://github.com/PGmengqi/weibo/blob/master/img/%E7%99%BB%E5%BD%95.png>
